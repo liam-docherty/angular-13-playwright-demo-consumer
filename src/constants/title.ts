@@ -1,1 +1,3 @@
-export const title = 'Welcome';
+import { name } from '../mocks';
+
+export const title = `Welcome ${name}`;
