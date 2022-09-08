@@ -1,6 +1,7 @@
 {
   "name": "angular-13-playwright",
   "version": "0.0.0",
+  "type": "module",
   "scripts": {
     "build": "ng build",
     "e2e": "start-server-and-test start http://localhost:4200 e2e:run",
